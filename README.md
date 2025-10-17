@@ -20,6 +20,7 @@ Think of this repo as your toolkit for exploring and engineering networks—one 
 | Script | Description |
 |--------|-------------|
 | `eth_frame_builder.py` | GUI tool for crafting raw Ethernet frames from HEX and exporting to `.pcap` |
+| `sshCommandsHostsList.py`| Netmiko script to issue a list of commands to several hosts and save the text output |
 | *(more coming soon)* | Wireshark dissector helpers, packet fuzzers, packet replayers, etc. |
 
 ---
